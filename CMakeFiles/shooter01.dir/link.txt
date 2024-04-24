@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/shooter01.dir/src/draw.c.o CMakeFiles/shooter01.dir/src/init.c.o CMakeFiles/shooter01.dir/src/input.c.o CMakeFiles/shooter01.dir/src/main.c.o -o shooter01  -lSDL2 -lSDL2_mixer -lSDL2 -lSDL2_image -lSDL2 -lSDL2_ttf -lSDL2 -lm -lSDL2_mixer -lSDL2_image -lSDL2_ttf -lm 

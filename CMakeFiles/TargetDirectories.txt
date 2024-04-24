@@ -1,0 +1,3 @@
+/home/dan/Projects/shmup/CMakeFiles/shooter01.dir
+/home/dan/Projects/shmup/CMakeFiles/edit_cache.dir
+/home/dan/Projects/shmup/CMakeFiles/rebuild_cache.dir
